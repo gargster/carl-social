@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:fbb63e8b50984c74806f8eb068d9debd4bb4023b62de9795fdf80b73197572ed",
   "handle": "carl.social",
-  "repoURL": "C:\\Users\\gargb\\OneDrive\\Desktop\\ELEC4712\\Git-Decentralised\\ELEC4712_Decentralised_Blog\\remotes\\carl-social.git",
+  "repoURL": "https://github.com/gargster/carl-social.git",
   "displayName": "Carl",
   "bio": "Testing",
   "created": "2026-08-20T06:04:12.509863Z",
-  "signature": "yXADbfNBnTeGqcAtlVokVYa2yg8wCq+xT6p/JS6k8DhcFUSje4zXgwmxJcjx3cpRPgVf/IR7oETnKXK1KsmSBQ=="
+  "signature": "GFL7afuOrIJ0MexIinFxKPZ/KAKjpmydZSEFIvSgLrGc2OUnJXkKphdshTYp9f/ejZhn1HeIO3fFgSn136vKCA=="
 }
